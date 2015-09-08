@@ -1,0 +1,18 @@
+{
+  "name": "css-supports",
+  "version": "0.1.0",
+  "description": "CSS.supports() shim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "supports",
+    "shim",
+    "polyfill",
+    "commonjs"
+  ],
+  "author": "Tomas Ruzicka <me@tomasr.com> (https://github.com/LeZuse)",
+  "license": "MIT"
+}
