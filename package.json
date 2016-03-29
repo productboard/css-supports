@@ -14,5 +14,9 @@
     "commonjs"
   ],
   "author": "Tomas Ruzicka <me@tomasr.com> (https://github.com/LeZuse)",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/productboard/css-supports/#readme",
+  "bugs": {
+    "url": "https://github.com/productboard/css-supports/issues"
+  }
 }
