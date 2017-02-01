@@ -1,13 +1,13 @@
 # CSS.supports shim
 
 ## Installation
-```
-npm install css-supports
+```bash
+npm install css-supports --save
 ```
 
 ## Usage
 ### Without shimming (recommended)
-```
+```js
 import supports from 'css-supports';
 
 supports('backdrop-filter', 'blur(20px)');
@@ -15,7 +15,7 @@ supports('(backdrop-filter: blur(20px)) or (-webkit-backdrop-filter: blur(20px))
 ```
 
 ### With shimming
-```
+```js
 import supports from 'css-supports';
 supports.shim();
 
